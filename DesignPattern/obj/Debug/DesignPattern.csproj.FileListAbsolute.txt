@@ -1,0 +1,6 @@
+E:\ZhuQing\Study\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+E:\ZhuQing\Study\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+E:\ZhuQing\Study\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+E:\ZhuQing\Study\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+E:\ZhuQing\Study\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+E:\ZhuQing\Study\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
