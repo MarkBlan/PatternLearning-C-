@@ -5,12 +5,11 @@ namespace ObserverPattern
 {
     public class WeatherData : Subject
     {
-
         public void Notify()
         {
             foreach(Object o in observerArrayList)
             {
-
+                ((Observer)o).Update(temperature_,humidity_,pressure_);
             }
         }
 
@@ -29,7 +28,6 @@ namespace ObserverPattern
                 observerArrayList.Remove(o);
             }            
         }
-
 
         private ArrayList observerArrayList;
 
@@ -59,5 +57,17 @@ namespace ObserverPattern
             Notify();
         }
         
+        public WeatherData()
+        {
+            observerArrayList = new ArrayList();
+        }
+
+        public void SetMeasurements(float temperature,float humidity,float pressure)
+        {
+            temperature_ = temperature;
+            humidity_ = humidity;
+            pressure_ = pressure;
+            MeasurementsChanged();
+        }
     }
 }

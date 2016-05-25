@@ -10,6 +10,14 @@ namespace ObserverPattern
     {
         static void Main(string[] args)
         {
+            WeatherData weatherData = new WeatherData();
+
+            CurrentCondotionBroadcast b = new CurrentCondotionBroadcast(weatherData);
+
+            weatherData.SetMeasurements(1.00f, 2.00f, 4.23f);
+
+
+            Console.ReadKey();
 
         }
     }
