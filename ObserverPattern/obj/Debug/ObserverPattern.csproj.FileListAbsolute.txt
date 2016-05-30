@@ -1,6 +1,5 @@
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
-E:\ZhuQing\Study\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
