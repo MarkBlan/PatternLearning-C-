@@ -3,3 +3,6 @@ E:\ZhuQing\Study\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
 E:\ZhuQing\Study\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
 E:\ZhuQing\Study\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\ZhuQing\Study\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb
