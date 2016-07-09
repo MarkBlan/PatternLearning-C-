@@ -17,7 +17,7 @@ namespace SingletonPattern
 
        }
 
-       public static Singleton_lock Singleton_lock()
+       public static Singleton_lock GetInstance()
        {
            lock(lockObj)
            {

@@ -4,3 +4,8 @@ E:\ZhuQing\Study\DesignPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
 E:\ZhuQing\Study\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
 E:\ZhuQing\Study\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 E:\ZhuQing\Study\DesignPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\obj\Debug\DecoratorPattern.pdb

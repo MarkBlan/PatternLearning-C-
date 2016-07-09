@@ -1,0 +1,5 @@
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SingletonPattern\obj\Debug\SingletonPattern.pdb

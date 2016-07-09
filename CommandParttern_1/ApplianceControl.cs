@@ -8,8 +8,8 @@ namespace CommandParttern_1
 {
     public interface ApplianceControl
     {
-        void On() { }
+        void On();
 
-        void Off() { }
+        void Off();
     }
 }

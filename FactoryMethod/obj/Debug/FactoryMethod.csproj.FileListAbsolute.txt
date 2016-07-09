@@ -4,3 +4,8 @@ E:\ZhuQing\Study\DesignPattern\FactoryMethod\bin\Debug\FactoryMethod.pdb
 E:\ZhuQing\Study\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
 E:\ZhuQing\Study\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.exe
 E:\ZhuQing\Study\DesignPattern\FactoryMethod\obj\Debug\FactoryMethod.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\FactoryMethod\bin\Debug\FactoryMethod.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\FactoryMethod\obj\Debug\FactoryMethod.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\FactoryMethod\obj\Debug\FactoryMethod.pdb

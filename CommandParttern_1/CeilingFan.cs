@@ -8,13 +8,13 @@ namespace CommandParttern_1
 {
    public class CeilingFan
     {
-       public static const int HIGH = 3;
+       public  const int HIGH = 3;
 
-       public static const int MEDIUM = 2;
+       public  const int MEDIUM = 2;
 
-       public static const int LOW = 1;
+       public  const int LOW = 1;
 
-       public static const int OFF = 0;
+       public  const int OFF = 0;
 
        string location_;
 

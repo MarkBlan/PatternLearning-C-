@@ -3,3 +3,8 @@ E:\ZhuQing\Study\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 E:\ZhuQing\Study\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\ObserverPattern\obj\Debug\ObserverPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\ObserverPattern\obj\Debug\ObserverPattern.pdb

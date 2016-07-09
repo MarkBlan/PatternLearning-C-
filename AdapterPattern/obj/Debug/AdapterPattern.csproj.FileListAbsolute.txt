@@ -1,0 +1,5 @@
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\AdapterPattern\obj\Debug\AdapterPattern.pdb
