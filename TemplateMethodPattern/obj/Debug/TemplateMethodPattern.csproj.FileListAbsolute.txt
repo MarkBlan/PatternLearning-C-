@@ -1,0 +1,5 @@
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb

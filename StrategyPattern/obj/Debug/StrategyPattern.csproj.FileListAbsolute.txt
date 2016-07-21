@@ -7,7 +7,7 @@ E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\De
 E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\study\Projects\June\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\Debug\StrategyPattern.exe.config
-E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
-E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\Debug\StrategyPattern.exe
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb

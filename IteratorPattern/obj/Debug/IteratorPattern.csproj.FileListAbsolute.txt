@@ -1,0 +1,5 @@
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\IteratorPattern\obj\Debug\IteratorPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\IteratorPattern\obj\Debug\IteratorPattern.pdb

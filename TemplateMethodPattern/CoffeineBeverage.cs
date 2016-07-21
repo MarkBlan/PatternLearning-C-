@@ -22,7 +22,7 @@ namespace TemplateMethodPattern
 
         public abstract void AddCondiments();
 
-        public abstract Boolean CustomerWantsCondiments()
+        public virtual Boolean CustomerWantsCondiments()
         {
             return true;
         }

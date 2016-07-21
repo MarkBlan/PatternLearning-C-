@@ -3,3 +3,9 @@ E:\ZhuQing\Study\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
 E:\ZhuQing\Study\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
 E:\ZhuQing\Study\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
 E:\ZhuQing\Study\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\bin\Debug\DesignPattern.exe.config
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\bin\Debug\DesignPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\bin\Debug\DesignPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\obj\Debug\DesignPattern.exe
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DesignPattern\obj\Debug\DesignPattern.pdb
