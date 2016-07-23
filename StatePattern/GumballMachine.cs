@@ -10,6 +10,7 @@ namespace StatePattern
     {
        private IState state_;
        private int count_;
+       private string location_;
 
        private IState hasQuarterState_;
        private IState noQuarterState_;
@@ -17,7 +18,7 @@ namespace StatePattern
        private IState soldState_;
        private IState winnerState_;
 
-       public GumballMachine(int count)
+       public GumballMachine(string location,int count)
        {
            hasQuarterState_ = new HasQuarterState(this);
            noQuarterState_ = new NoQuarterState(this);
@@ -25,6 +26,7 @@ namespace StatePattern
            soldState_ = new SoldState(this);
            winnerState_ = new WinnerState(this);
            count_ = count;
+           location_ = location;
            if(count>0)
            {
                state_ = noQuarterState_;
@@ -89,6 +91,16 @@ namespace StatePattern
        public int GetCount()
        {
            return count_;
+       }
+
+       public IState GetState()
+       {
+           return state_;
+       }
+
+       public string GetLocation()
+       {
+           return location_;
        }
     }
 }

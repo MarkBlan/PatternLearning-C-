@@ -9,3 +9,4 @@ E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SimpleF
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SimpleFactory\bin\Debug\SimpleFactory.pdb
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SimpleFactory\obj\Debug\SimpleFactory.exe
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SimpleFactory\obj\Debug\SimpleFactory.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache

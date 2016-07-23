@@ -9,3 +9,4 @@ E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\Decorat
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache

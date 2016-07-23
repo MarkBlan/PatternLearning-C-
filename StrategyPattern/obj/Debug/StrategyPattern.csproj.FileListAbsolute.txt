@@ -11,3 +11,4 @@ E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\Strateg
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\bin\Debug\StrategyPattern.pdb
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.pdb
+E:\study\Projects\July-2016\June-2016\C#DesignPattern\PatternLearning-C-\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
